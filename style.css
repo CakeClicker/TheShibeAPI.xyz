@@ -1,0 +1,20 @@
+html,body
+{
+    color: #333333;
+    background: #333333;
+    height: 100%;
+    font-size: 14px;
+    font-family: "Open Sans", "Trebuchet MS", sans-serif;
+}
+
+.shibe__image__container
+{
+    text-align: center;
+}
+
+.banner
+{
+	    text-align: center;
+
+    max-width: 100%;
+}
